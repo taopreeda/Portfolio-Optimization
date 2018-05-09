@@ -1,4 +1,4 @@
-# Portfolio-Optimization
+# Portfolio Optimization
 
 This repo shows how to create an efficient frontier and run a portfolio optimization in Python
 
